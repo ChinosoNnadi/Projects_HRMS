@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be010f7e-340b-4dc2-9b0e-fab103298bc7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Valid admin login 2023-10-27-15-58-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/add  new job Title 2023-12-01-04-41-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/add  new job Title 2023-12-01-04-42-34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/add  new job Title 2023-12-01-04-44-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/add  new job Title 2023-12-01-04-48-15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/add  new job Title 2023-12-01-04-53-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/add  new job Title 2023-12-01-04-54-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/add  new job Title 2023-12-01-04-58-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/add  new job Title 2023-12-01-05-12-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/add  new job Title 2023-12-01-05-22-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/add  new job Title 2023-12-01-05-34-41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/adding multiple employees from data table 2023-11-10-09-00-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/ 2023-11-09-01-52-47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/ 2023-11-09-01-53-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/ 2023-11-09-01-53-38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Valid admin login 2023-10-27-15-59-18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Valid admin login 2023-10-27-15-59-53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/add  new job Title 2023-12-01-04-12-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/add  new job Title 2023-12-01-04-15-54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/add  new job Title 2023-12-01-05-25-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/add  new job Title 2023-12-01-05-35-53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/syntax/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/API/HardCodedExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/APISteps/APIWorkFlowSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/AddEmployeePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/AdminDashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/EmployeeSearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/JobTitlePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/loginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Runners/APIRunnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Runners/FailedRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Runners/RunnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Steps/AddEmployeeSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Steps/EmploySearchSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Steps/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Steps/JobTitleSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Steps/LoginSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Util/APIConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Util/APIPayloadConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Util/CommonMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Util/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Util/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Util/DBUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Util/ExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Util/PageInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Config/Config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/APIWorkFlow.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/AddEmployee.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/EmployeeSearch.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/JobTitle.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testdata/batch17excel.xlsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2WauYcHr3DUv6M5dESnYW5C3kSZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/chinosonnadi/IdeaProjects/Batch17/HRMSBATCH17/src/test/resources/testData&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/chinosonnadi/IdeaProjects/Batch17/HRMSBATCH17/src/main/java/org/syntax/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/testData" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.APIRunnerClass">
+    <configuration name="APIRunnerClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HRMSBATCH17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Runners" />
+      <option name="MAIN_CLASS_NAME" value="Runners.APIRunnerClass" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HardCodedExamples" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HRMSBATCH17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="API.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="API" />
+      <option name="MAIN_CLASS_NAME" value="API.HardCodedExamples" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HardCodedExamples.AcreateEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HRMSBATCH17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="API.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="API" />
+      <option name="MAIN_CLASS_NAME" value="API.HardCodedExamples" />
+      <option name="METHOD_NAME" value="AcreateEmployee" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HardCodedExamples.BgetCreatedEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HRMSBATCH17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="API.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="API" />
+      <option name="MAIN_CLASS_NAME" value="API.HardCodedExamples" />
+      <option name="METHOD_NAME" value="BgetCreatedEmployee" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerClass (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HRMSBATCH17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Runners" />
+      <option name="MAIN_CLASS_NAME" value="Runners.RunnerClass" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.APIRunnerClass" />
+        <item itemvalue="JUnit.HardCodedExamples.AcreateEmployee" />
+        <item itemvalue="JUnit.RunnerClass (1)" />
+        <item itemvalue="JUnit.HardCodedExamples" />
+        <item itemvalue="JUnit.HardCodedExamples.BgetCreatedEmployee" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be010f7e-340b-4dc2-9b0e-fab103298bc7" name="Changes" comment="" />
+      <created>1696983061152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696983061152</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:io.cucumber:cucumber-java" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/syntax/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
